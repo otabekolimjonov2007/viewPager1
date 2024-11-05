@@ -55,6 +55,8 @@
             android:layout_height="10dp"
             android:layout_margin="8dp"
             android:background="@drawable/indicator_inactiv"/>
+
+
         <View
             android:id="@+id/indicator4"
             android:layout_width="10dp"
